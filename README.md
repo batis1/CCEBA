@@ -18,9 +18,3 @@ The experiments in the manuscript were conducted using:
 
 - All stochastic optimizers were executed for 20 independent runs.
 
-## Usage
-
-Run the corresponding MATLAB experiment scripts for benchmark optimization or image segmentation after adding the required folders to the MATLAB path.
-
-```matlab
-addpath(genpath(pwd));
