@@ -17,7 +17,6 @@ The experiments in the manuscript were conducted using:
 ## Notes
 
 - All stochastic optimizers were executed for 20 independent runs.
-- The lupus nephritis images used in the manuscript are not included because of data privacy restrictions.
 
 ## Usage
 
