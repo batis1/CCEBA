@@ -17,8 +17,6 @@ The experiments in the manuscript were conducted using:
 ## Notes
 
 - All stochastic optimizers were executed for 20 independent runs.
-- Fixed random seeds were not specified in the original experimental scripts.
-- In some segmentation scripts, the method name `CCBA` corresponds to the proposed `CCEBA` method in the manuscript.
 - The lupus nephritis images used in the manuscript are not included because of data privacy restrictions.
 
 ## Usage
